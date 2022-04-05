@@ -1,0 +1,12 @@
+1) Pobieramy github destktop ==> https://desktop.github.com/
+2) Logujemy się na swoje konto githuba
+3) W przeglądarce wchodzimy w repozytorium i klikamy w zielony przycisk code następnie open whit githubDesktop
+4)Wybieramy ścieżkę gdzie chcemy sklonować repozytorium i klikamy clone (w aplikacji)
+5) Aby odpalić pliki projektu klikamy open in visual studio code
+6) aby podejrzec pliki w repozytorium lokalnym klikamy w show in explorer
+7)*opcjonalne* na górnej belce  jest current branch, tworzymy nowy branch
+8) tworzymy kod / edytujemy pliki
+9) aby zapisać zmiany klikamy commit to *branch*
+10) aby wypchnąć to na serwer klikamy request push lub push origin
+11) gotowe pliki są dostępne dla wszystkich
+12) aby zaktualizowac swoją wersje plików lokalnie musimy kliknac pull origin
